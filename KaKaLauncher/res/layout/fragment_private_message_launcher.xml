@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rl_private_message_launcher"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30dp"
+            android:src="@drawable/icon_private_message_launcher" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_private_message_like_video"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="60dp"
+        android:src="@drawable/icon_private_message_like_video"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/iv_private_message_think_reward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="90dp"
+        android:src="@drawable/icon_private_message_think_reward"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/iv_private_message_watch_movie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="215dp"
+        android:src="@drawable/icon_private_message_watch_movie" 
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/private_message_this_week"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="38dp"
+        android:layout_marginTop="240dp"
+        android:src="@drawable/icon_private_message_this_week" 
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/reward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tv_watch_video_dating"
+        android:layout_centerHorizontal="true"
+        android:text="私信功能"
+        android:textColor="#FFFFFFFF"
+        android:textSize="54dp"/>
+
+    <TextView
+        android:id="@+id/tv_watch_video_dating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="65dp"
+        android:text="开心看视频   快乐交朋友"
+        android:textColor="#FFFFFFFF"
+        android:textSize="27dp"/>
+
+</RelativeLayout>
