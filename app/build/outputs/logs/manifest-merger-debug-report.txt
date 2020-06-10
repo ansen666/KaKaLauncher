@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/ea88890b09526096266c9c16859169ae/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/749c232115217351c91aa74c2d78bd12/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/936ebbfdaa20b5d2513f45ef5b9bca61/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/184c984507bae6d54ce89a1b39416d6f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/3ef529e7659a6dad5bca87ebe763f091/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1a7929ea79abc37513892fc022245291/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/b17763bf98edbd30968b64ebcbc4e5fe/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/ddc93cc7f56536b57b7e686942c96acd/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/6142cc34fd4a481411a6571034684118/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1e40e6425c76c059bfb4b3234ce21463/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/da95e0dd41fd0c634661df2a0f122634/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2f8d1ed6722dd8ec027727976d721a74/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/f4e6f5083e31829c93f71953ffc4081f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/27eaecc8cd0861d0e6bd94d2c9649bb6/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/209f2f473926ace7290783e8147519fd/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/9f18933e18a2883724525a09a9c7e2bc/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2e208f9141563db79bd49ce93534ac4d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1e517e060e22e5750a896c56d451ab07/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/8909bb9e572b85a1aed6ea82735a7b78/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2541981a540b257b4ca2e11e0b5e803f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/ea88890b09526096266c9c16859169ae/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/ea88890b09526096266c9c16859169ae/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/749c232115217351c91aa74c2d78bd12/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/749c232115217351c91aa74c2d78bd12/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/936ebbfdaa20b5d2513f45ef5b9bca61/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/936ebbfdaa20b5d2513f45ef5b9bca61/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/184c984507bae6d54ce89a1b39416d6f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/184c984507bae6d54ce89a1b39416d6f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/3ef529e7659a6dad5bca87ebe763f091/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/3ef529e7659a6dad5bca87ebe763f091/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1a7929ea79abc37513892fc022245291/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1a7929ea79abc37513892fc022245291/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/b17763bf98edbd30968b64ebcbc4e5fe/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/b17763bf98edbd30968b64ebcbc4e5fe/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/ddc93cc7f56536b57b7e686942c96acd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/ddc93cc7f56536b57b7e686942c96acd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/6142cc34fd4a481411a6571034684118/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/6142cc34fd4a481411a6571034684118/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1e40e6425c76c059bfb4b3234ce21463/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1e40e6425c76c059bfb4b3234ce21463/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/da95e0dd41fd0c634661df2a0f122634/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/da95e0dd41fd0c634661df2a0f122634/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2f8d1ed6722dd8ec027727976d721a74/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2f8d1ed6722dd8ec027727976d721a74/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/f4e6f5083e31829c93f71953ffc4081f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/f4e6f5083e31829c93f71953ffc4081f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/27eaecc8cd0861d0e6bd94d2c9649bb6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/27eaecc8cd0861d0e6bd94d2c9649bb6/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/209f2f473926ace7290783e8147519fd/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/209f2f473926ace7290783e8147519fd/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/9f18933e18a2883724525a09a9c7e2bc/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/9f18933e18a2883724525a09a9c7e2bc/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2e208f9141563db79bd49ce93534ac4d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2e208f9141563db79bd49ce93534ac4d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1e517e060e22e5750a896c56d451ab07/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/1e517e060e22e5750a896c56d451ab07/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/8909bb9e572b85a1aed6ea82735a7b78/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/8909bb9e572b85a1aed6ea82735a7b78/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2541981a540b257b4ca2e11e0b5e803f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/2541981a540b257b4ca2e11e0b5e803f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:11:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/da95e0dd41fd0c634661df2a0f122634/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/da95e0dd41fd0c634661df2a0f122634/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/f4e6f5083e31829c93f71953ffc4081f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/f4e6f5083e31829c93f71953ffc4081f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/anhui/.gradle/caches/transforms-2/files-2.1/da95e0dd41fd0c634661df2a0f122634/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.kakalauncher.KaKaLauncherActivity
+ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:17:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/AndroidManifest.xml:23:27-74

@@ -1,0 +1,4 @@
+#Wed Jun 10 11:17:30 CST 2020
+base.0=/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

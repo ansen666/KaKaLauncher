@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_launcher_immediate_experience.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/launcher_immediate_experience.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_finger.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_finger.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/anim_reward_launcher.xml.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/anim/reward_launcher.xml"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_gold.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_gold.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_popular.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_popular.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_page_indicator_focused.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/page_indicator_focused.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/layout_fragment_reward_launcher.xml.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/layout/fragment_reward_launcher.xml"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_reward.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_reward.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_receive_apicture.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_receive_apicture.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_bg_reward_launcher.jpg.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/bg_reward_launcher.jpg"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_bg_kaka_launcher.jpg.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/bg_kaka_launcher.jpg"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_private_message_this_week.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_private_message_this_week.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/layout_fragment_stereoscopic_launcher.xml.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/layout/fragment_stereoscopic_launcher.xml"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_private_message_think_reward.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_private_message_think_reward.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_launcher_the_world_is_so_big_not_to_see.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/launcher_the_world_is_so_big_not_to_see.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_private_message_like_video.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_private_message_like_video.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/anim_private_message_launcher.xml.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/anim/private_message_launcher.xml"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/layout_fragment_private_message_launcher.xml.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/layout/fragment_private_message_launcher.xml"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_private_message_launcher.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_private_message_launcher.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_bg_stereoscopic_launcher.jpg.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/bg_stereoscopic_launcher.jpg"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/layout_activity_luancher_main.xml.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/layout/activity_luancher_main.xml"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_icon_private_message_watch_movie.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/icon_private_message_watch_movie.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anhui/Documents/git/github/KaKaLauncher/app/build/intermediates/res/merged/debug/mipmap-hdpi_page_indicator_unfocused.png.flat",
+        "source": "/Users/anhui/Documents/git/github/KaKaLauncher/app/src/main/res/mipmap-hdpi/page_indicator_unfocused.png"
+    }
+]
